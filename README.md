@@ -8,14 +8,14 @@ Welcome to my data analytics portfolio. This repository provides an overview of 
 This project demonstrates my ability to work with time-dependent data, identify patterns, and apply statistical models.
 
 
-🔗 [https://github.com/Kliff-cpu/Time-Series-Modelling-and-Forecasting]
+🔗 https://github.com/Kliff-cpu/Time-Series-Modelling-and-Forecasting
 
 ---
 
-### 2. Risk Analysis and Data-Driven Decision Support
+### 2. Risk Measure Analysis and Data-Driven Decision Support
 This project demonstrates my ability to analyse uncertainty in data and support decision-making using quantitative techniques.
 
-🔗 [Add your risk project link here]
+🔗 https://github.com/Kliff-cpu/Portfolio-Risk-Measurement-and-Optimization
 
 ---
 
