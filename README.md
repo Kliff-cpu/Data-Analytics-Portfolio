@@ -22,7 +22,7 @@ This project demonstrates my ability to analyse uncertainty in data and support 
 ### 3. Excel-Based Quantitative Analysis
 This project demonstrates my ability to work with structured datasets in Excel and perform practical analysis.
 
-🔗 [Add your Excel project link here]
+🔗 https://github.com/Kliff-cpu/Bullet-Swap-Valuation-and-PV01-Model
 
 ---
 
