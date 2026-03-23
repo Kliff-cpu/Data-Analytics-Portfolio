@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio. This repository provides an overview of 
 This project demonstrates my ability to work with time-dependent data, identify patterns, and apply statistical models.
 
 
-🔗 https://github.com/Kliff-cpu/BEEK-GARCH
+🔗 [https://github.com/Kliff-cpu/Time-Series-Modelling-and-Forecasting]
 
 ---
 
