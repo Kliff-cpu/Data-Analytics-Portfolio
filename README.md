@@ -2,7 +2,7 @@
 
 Welcome to my portfolio. This repository provides a curated overview of projects demonstrating my skills in data analysis, statistical modelling, financial risk, and quantitative finance.
 
-The work spans time series modelling, portfolio risk measurement, and derivatives valuation, combining both theoretical understanding and practical implementation.
+The work spans time series modelling, portfolio risk measurement and derivatives valuation, combining both theoretical understanding and practical implementation.
 
 ---
 
@@ -23,7 +23,7 @@ This project applies ARIMA and GARCH-type models to analyse and forecast time-de
 ### 2. Portfolio Risk Measurement and Optimization  
 🔗 https://github.com/Kliff-cpu/Portfolio-Risk-Measurement-and-Optimization  
 
-This project evaluates portfolio risk using multiple downside and tail-risk measures, including VaR, CVaR, EVaR, and CDaR. It also incorporates credit risk into the overall analysis.
+This project evaluates portfolio risk using multiple downside and tail-risk measures, including VaR, CVaR, EVaR and CDaR. It also incorporates credit risk into the overall analysis.
 
 **Focus:**
 - Tail risk analysis  
